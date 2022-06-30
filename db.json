@@ -1,0 +1,30 @@
+{
+    "products": [
+        {
+            "id" : 1,
+            "name" : "alu",
+            "price" : 1200,
+            "sell_price" : 900,
+            "photo" : "https://www.myfoodtrip.com/wp-content/uploads/2020/05/Food-Blog-Directory.jpg"
+        },
+        {
+            "id" : 2,
+            "name" : "potol",
+            "price" : 200,
+            "sell_price" : 100,
+            "photo" : "https://images.squarespace-cdn.com/content/v1/53e52074e4b0392a271246de/1558525342819-TZG0V809BCEYCYLI0F7U/2019-SFF-Facebook-Homepage-001-blanko.jpg?format=1500w"
+        }, {
+            "id" : 3,
+            "name" : "lau",
+            "price" : 1200,
+            "sell_price" : 900,
+            "photo" : "https://img.freepik.com/vektoren-kostenlos/fast-food-illustrationssatz_121223-1482.jpg?w=2000"
+        }, {
+            "id" : 4,
+            "name" : "kumra",
+            "price" : 1200,
+            "sell_price" : 900,
+            "photo" : "https://www.efsa.europa.eu/sites/default/files/styles/share_opengraph/public/2021-03/experts_food_additives.jpg?h=827069f2&itok=Al_Mu6TK"
+        }
+    ]
+}
